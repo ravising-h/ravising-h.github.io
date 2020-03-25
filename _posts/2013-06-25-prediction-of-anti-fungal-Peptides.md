@@ -11,3 +11,4 @@ comments: true
 ---
 
 Training file have three columns, first column contain ID (sequence number), second column contain label (-1 for negative and +1 for positive sample) and third column contain sequence of peptide in single letter code. Used Different encoding and model to predict anti fungal peptide.
+[Project Link](https://github.com/ravising-h/Prediction-of-Anti-fungal-Peptides)
