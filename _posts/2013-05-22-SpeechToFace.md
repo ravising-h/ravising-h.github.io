@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech to Face"
-date: 2019-06-29
+date: 2019-11-29
 excerpt: "builds Face from speech."
 tags: [Image Feature, Speech Processing, Image Wraping]
 comments: false
