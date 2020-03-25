@@ -1,37 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: Decoding Myself
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+I am Data science enthusiast who is passionate about transforming data into useful products. Currently I am a computer vision intern at CVision-AI, Delhi working with loads of Images.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I am an electrical engineer who identified his true passion for data science. The amazing growth of intelligence in things around intrigued me to think ‘how they can work so ?’. This curiosity led me exploring areas of data mining, machine learning, and deep learning. I started teaching myself how these algorithms work !!!
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I love creative as well as complex problem solving and programming. Continuous innovation and learning are what attracted me to data science. I am the person who has always been the first one to roll up sleeves if I encounter any data problem.
