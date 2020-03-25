@@ -17,8 +17,9 @@ This was my first solo project. This is a problem of Multi-class Audio Classific
 Librosa library has many methods already build to extract features mentioned in resources which then returns another array of features. We can use various combinations of those features. This is something you can play around and try how and which features like mfcc, spectral features, energy etc affect the classification of audio.
 
 For eg, in first stage you can extract only mfcc features and then build up a model and check the accuracy. Then try the same with other features. In order to further improve accuracy, you can also try to use more than one type of features and check the results.
-![](https://miro.medium.com/max/768/1*MoiYQrW3Qaft6lfPQYbUbw.png)
+
 ##### MFCC
+![](https://miro.medium.com/max/768/1*MoiYQrW3Qaft6lfPQYbUbw.png)
 Mel Frequency Cepstral Coefficents (MFCCs) are a feature widely used in automatic speech and speaker recognition. They were introduced by Davis and Mermelstein in the 1980’s, and have been state-of-the-art ever since. Prior to the introduction of MFCCs, Linear Prediction Coefficients (LPCs) and Linear Prediction Cepstral Coefficients (LPCCs) (click here for a tutorial on cepstrum and LPCCs) and were the main feature type for automatic speech recognition (ASR), especially with HMM classifiers. This page will go over the main aspects of MFCCs, why they make a good feature for ASR, and how to implement them.
 
 ##### Using CNNs
