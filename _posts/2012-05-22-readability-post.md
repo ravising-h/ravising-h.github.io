@@ -3,7 +3,7 @@ layout: post
 title: "Urban Sound 8K"
 date: 2019-05-22
 excerpt: "Sound Classification."
-tags: [sample post, readability, test]
+tags: [Speech Processing, Deep Learning, XGBoost, Random Forest]
 comments: false
 ---
 
