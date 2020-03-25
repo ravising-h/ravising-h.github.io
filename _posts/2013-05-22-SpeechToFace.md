@@ -138,3 +138,4 @@ def image_warping(src_img, src_landmarks, dest_landmarks):
     return torch.from_numpy(warp_img).float())
 ~~~
     
+[Project on Github](https://github.com/ravising-h/Speech2Face/)
