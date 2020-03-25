@@ -11,7 +11,7 @@ This was my first solo project. This is a problem of Multi-class Audio Classific
  This project involded Speech Processing, Feature Extraction, Deep Learning technique like Neural Nets, CNN.
  First we extract MFCC, Mel-spectogram features through a python library called librosa. LibROSA is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
  
- ##### loading audio files 
+ ##### Loading audio files 
  Using load method of librosa library, we can read audio files. It takes file path as input and returns an array having amplitude samples along with sampling rate of file.
 
 Librosa library has many methods already build to extract features mentioned in resources which then returns another array of features. We can use various combinations of those features. This is something you can play around and try how and which features like mfcc, spectral features, energy etc affect the classification of audio.
