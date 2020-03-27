@@ -3,6 +3,7 @@ layout: post
 title:  "Prediction of Anti-fungal Peptides"
 date:   2020-03-15
 excerpt: "Sequence data classification"
+project: true
 tag:
 - Chemistry 
 - Deep learning
