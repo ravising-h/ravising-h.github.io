@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Object detection using mmdetection"
-date: 2019-10-23
+date: 2020-02-23
 excerpt: "Object detection"
 tags: [CNN, image, BBOX]
 comments: false
