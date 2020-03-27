@@ -3,6 +3,7 @@ layout: project
 title: "Urban Sound 8K"
 date: 2019-05-22
 excerpt: "Sound Classification."
+project: true
 tags: [Speech Processing, Deep Learning, XGBoost, Random Forest]
 comments: false
 ---
