@@ -8,7 +8,7 @@ logo:               'assets/img/profile.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://ravisingh.github.io/
+url:                http://ravising-h.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -37,8 +37,8 @@ disqus_shortname:   RAVI SINGH
   #ad-client:
   #ad-slot:
 #bing-verify:
-resume:              "https://drive.google.com/file/d/15ZHTYoZgRQ6N0XMcDAs8HlJuix3kH0NN/view?usp=sharing"
-email:               'mailbox.ravisingh@gmail.com'
+resume:             "https://drive.google.com/file/d/15ZHTYoZgRQ6N0XMcDAs8HlJuix3kH0NN/view?usp=sharing"
+email:              'mailbox.ravisingh@gmail.com'
 twitter:            'ravisingh93362'
 #facebook:           username
 github-url:         'ravising-h'
